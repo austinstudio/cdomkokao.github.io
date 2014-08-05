@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "My First Post"
 published: true
 ---
 
