@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You're up and running! Now..."
+title: "You're up and running! Now, Now."
 published: true
 ---
 
