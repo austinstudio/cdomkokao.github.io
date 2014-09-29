@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Post"
+title: My First Post 2
 published: true
 ---
 
